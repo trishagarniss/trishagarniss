@@ -30,11 +30,6 @@
 
 <br clear="right"/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="250">
-  <p><i>Me and my feline code reviewer 😸💕</i></p>
-</div>
-
 ---
 
 ## 🌟 Current Vibe
