@@ -4,37 +4,35 @@
 
 ### 📊 Data Science Student | 🔧 Aspiring Data Engineer | 🐱 Cat-Powered Coder
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Turning+data+into+insights+%F0%9F%93%88;Building+pipelines+one+cat+nap+at+a+time+%F0%9F%90%BE;Query+all+the+things!+%F0%9F%92%AB;ETL+%3E+Sleep+%3E+Repeat+%F0%9F%94%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Turning+data+into+insights+%F0%9F%93%88;Building+pipelines+one+cat+nap+at+a+time+%F0%9F%90%BE;Query+all+the+things!+%F0%9F%92%AB;ETL+%3E+Sleep+%3E+Repeat+%F0%9F%94%84;Powered+by+coffee+and+cuteness+%E2%98%95%F0%9F%92%96)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 💖 About Me
 
-```python
-class TrishaGarnis:
-    def __init__(self):
-        self.name = "Trisha Garnis"
-        self.role = "Data Science Student → Data Engineer"
-        self.location = "Indonesia 🇮🇩"
-        self.languages = ["Python", "SQL", "R", "Scala"]
-        self.interests = ["Data Engineering", "ETL Pipelines", "Cloud Computing"]
-        self.current_focus = "Building scalable data solutions"
-        self.fun_fact = "My code runs better with a cat on my lap 🐱"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! ✨")
+<img align="right" alt="Coding Girl" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-me = TrishaGarnis()
-me.say_hi()
-```
+✨ **Data Science student** with a passion for **Data Engineering**
+
+🎀 Love building things that make data flow smoothly and efficiently
+
+💫 Currently exploring the magical world of pipelines, ETL, and cloud technologies
+
+🐱 Proudly powered by cats, coffee, and curiosity
+
+🌸 Believer in clean code, structured data, and good vibes only
+
+💭 *"Turning messy data into beautiful insights, one pipeline at a time"*
+
+<br clear="right"/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
-  <p><i>Me coding with my feline supervisor 😸</i></p>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="250">
+  <p><i>Me and my feline code reviewer 😸💕</i></p>
 </div>
 
 ---
@@ -43,17 +41,17 @@ me.say_hi()
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 | 🔥 **On My Radar** | 💭 **Mood Board** |
 |:---:|:---:|
 | Building data pipelines that actually work | *"Sleep? Never heard of her"* 😴 |
-| Experimenting with Apache Spark | Debugging at 3 AM with my cat 🐱 |
-| Learning cloud architecture | Coffee intake: ∞ |
+| Experimenting with Apache Spark ✨ | Debugging at 3 AM with my cat 🐱 |
+| Learning cloud architecture ☁️ | Coffee intake: ∞ ☕ |
 | Making SQL queries go *brrrr* ⚡ | Turning chaos into structured data 📊 |
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-<div align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400">
 </div>
 
 ---
@@ -138,10 +136,39 @@ me.say_hi()
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😺 Cat Wisdom of the Day
-> "Code like nobody's watching, debug like everybody is. Also, take naps. Lots of naps." - My Cat, probably
+</div>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
+### 😹 Cat Meme of the Day
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280">
+<br>
+<i>"When your code finally runs"</i> ✨
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="280">
+<br>
+<i>"Debugging at 3 AM be like"</i> 😴
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="280">
+<br>
+<i>"Me explaining my code"</i> 🤓
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="280">
+<br>
+<i>"When SQL query goes brrr"</i> 🚀
+</td>
+</tr>
+</table>
+
+> *"Code like nobody's watching, debug like everybody is. Also, take naps. Lots of naps."* - My Cat, probably 🐱💕
 
 </div>
 
@@ -151,10 +178,8 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trishagarniss)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trishagarniss@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://trishagarniss.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@trishagarniss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/trisha-garnis-wahningyun)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trishagarniss@gmail.com)
 
 </div>
 
@@ -164,12 +189,12 @@ me.say_hi()
 
 ### 💖 Thanks for visiting!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
-**"Data is the new oil, and I'm here to refine it!"** ⚡
+**"Data is the new oil, and I'm here to refine it with style!"** ✨💕
 
-![Profile Views](https://komarev.com/ghpvc/?username=trishagarniss&color=36BCF7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=trishagarniss&color=FF69B4&style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
