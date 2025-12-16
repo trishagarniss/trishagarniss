@@ -73,17 +73,17 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
 <br>
 <i>"When the pipeline<br>finally works!"</i> 🎉
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200">
 <br>
 <i>"Debugging<br>mood 24/7"</i> 😴
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200">
 <br>
 <i>"My brain during<br>a SQL join"</i> 🧠
 </td>
