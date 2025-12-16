@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Turning+chaos+into+clean+data+%F0%9F%93%8A;Building+pipelines+that+actually+work+%E2%9C%A8;SQL+queries+go+brrrr+%F0%9F%92%AB;Powered+by+coffee%2C+cats%2C+and+curiosity+%F0%9F%90%BE%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF,F7B731FF,FF69B4FF,9B59B6FF,1ABC9CFF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Turning+chaos+into+clean+data+%F0%9F%93%8A;Building+pipelines+that+actually+work+%E2%9C%A8;SQL+queries+go+brrrr+%F0%9F%92%AB;Powered+by+coffee%2C+cats%2C+and+curiosity+%F0%9F%90%BE%E2%98%95)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -22,11 +22,11 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=trishagarniss&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trishagarniss&theme=radical&hide_border=true&background=0D1117&stroke=FF69B4&ring=FF69B4&fire=FFA500&currStreakLabel=FF69B4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=trishagarniss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trishagarniss&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FFA657&currStreakLabel=58A6FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishagarniss&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=trishagarniss&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishagarniss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=trishagarniss&theme=github-compact&hide_border=true&bg_color=0D1117&color=79C0FF&line=58A6FF&point=FFA657" />
 
 </div>
 
@@ -142,7 +142,7 @@
 
 **"Turning data disasters into data masterpieces, one commit at a time!"** ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=trishagarniss&color=FF69B4&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=trishagarniss&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
