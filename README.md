@@ -8,31 +8,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Turning+chaos+into+clean+data+%F0%9F%93%8A;Building+pipelines+that+actually+work+%E2%9C%A8;SQL+queries+go+brrrr+%F0%9F%92%AB;Powered+by+coffee%2C+cats%2C+and+curiosity+%F0%9F%90%BE%E2%98%95)](https://git.io/typing-svg)
 
-</div>
-
----
-
-## 💖 About Me
-
-<img align="right" alt="Coding Girl" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-✨ **Data Science student** passionate about **Data Engineering**
-
-🎀 Building data pipelines that make sense (most of the time!)
-
-💫 Currently exploring ETL, cloud tech, and everything data infrastructure
-
-🐱 Debugging companion: 1 very judgmental cat
-
-🌸 Believer in clean code, good documentation, and treating data nicely
-
-💭 *"Turning messy spreadsheets into beautiful data lakes, one pipeline at a time"*
-
-<br clear="right"/>
-
-<div align="center">
-  
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+*"Turning messy spreadsheets into beautiful data lakes, one pipeline at a time"* ✨
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
@@ -90,16 +68,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=trishagarniss&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
