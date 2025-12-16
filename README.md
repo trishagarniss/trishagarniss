@@ -99,7 +99,7 @@
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="300">
 
 ### 💬 Words to Code By
-> *"First, solve the problem. Then, write the code. Also, pet the cat."* 🐱✨
+> *“Structured data, unstructured thoughts.”* 🐱✨
 
 </div>
 
