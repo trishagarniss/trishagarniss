@@ -79,22 +79,10 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
-<br>
-<i>"Me: 'Just one more bug fix'<br>Also me at 4 AM:"</i> 🥲
-</td>
-<td align="center" width="33%">
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
 <br>
 <i>"When the pipeline<br>finally works!"</i> 🎉
 </td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
-<br>
-<i>"Explaining my code<br>to myself next week"</i> 🤔
-</td>
-</tr>
-<tr>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="250">
 <br>
@@ -104,11 +92,6 @@
 <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250">
 <br>
 <i>"My brain during<br>a SQL join"</i> 🧠
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250">
-<br>
-<i>"When the query<br>runs in 2 seconds"</i> 🚀
 </td>
 </tr>
 </table>
@@ -139,8 +122,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
 ### 💖 Thanks for stopping by!
-
-**"Turning data disasters into data masterpieces, one commit at a time!"** ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=trishagarniss&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
