@@ -8,6 +8,8 @@
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="170">
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=trishagarniss&color=blue&style=for-the-badge&label=Profile+Views)
+
 </div>
 
 ---
