@@ -1,4 +1,5 @@
 <div align="center">
+  
 # 👋 Helloww! I'm Trisha Garnis! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF,F7B731FF,FF69B4FF,9B59B6FF,1ABC9CFF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Turning+chaos+into+clean+data+%F0%9F%93%8A;Building+pipelines+that+actually+work+%E2%9C%A8;SQL+queries+go+brrrr+%F0%9F%92%AB;Powered+by+coffee%2C+cats%2C+and+curiosity+%F0%9F%90%BE%E2%98%95)](https://git.io/typing-svg)
