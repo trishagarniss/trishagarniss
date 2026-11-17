@@ -83,11 +83,6 @@
 <br>
 <i>"Debugging<br>mood 24/7"</i> 😴
 </td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200">
-<br>
-<i>"My brain during<br>a SQL join"</i> 🧠
-</td>
 </tr>
 </table>
 
